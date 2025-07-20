@@ -15,7 +15,7 @@ It includes:
 ## 🚀 Features
 
 - 🔐 **User Authentication** (Login/Register)
-- 🧩 **Role-Based Questions** – Tailored interview questions for different domains
+- 🧩 **Domain-Specific Questions** – Tailored interview questions for different domains
 - 🎙️ **Voice Input & Output** – Speak and listen to answers
 - 💬 **Chat Interface** – Simulates AI chat interaction
 - 🧠 **OpenAI API Support** – Optional GPT integration for dynamic answers
